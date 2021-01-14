@@ -122,6 +122,10 @@ footer {
         margin-bottom: 20px;
         margin-right: 0;
     }
+
+    .feature-img {
+        margin-bottom: 30px;
+    }
 }
 
 @media (min-width: 768px) {
